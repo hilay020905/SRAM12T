@@ -29,5 +29,5 @@ This eliminates costly **data transposition** for 2D image workloads and acceler
 ## 🖼️ Architecture Overview
 (Add a PNG in `/images` and display it here)
 
-```markdown
 ![TDF Architecture](IMAGES/fig2.png)
+

@@ -32,4 +32,5 @@ This eliminates costly **data transposition** for 2D image workloads and acceler
 ![TDF Architecture](IMAGES/fig3.png)
 ![TDF Architecture](IMAGES/fig4.png)
 ![TDF Architecture](IMAGES/fig6.png)
+![TDF Architecture](IMAGES/fig7.jpg)
 ![TDF Architecture](IMAGES/fig8.jpg)

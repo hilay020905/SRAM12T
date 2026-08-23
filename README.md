@@ -1,5 +1,7 @@
 # Tri-Directional Fabric (TDF) using 12T SRAM for Image Processing
 
+Paper acceptance email: https://github.com/hilay020905/Research-Paper
+
 This repository contains the implementation of **Tri-Directional Fabric (TDF)**, a novel **12T SRAM-based in-memory computing architecture** that enables **row, column, and diagonal data access** inside the memory array.  
 This eliminates costly **data transposition** for 2D image workloads and accelerates common kernels such as:
 
